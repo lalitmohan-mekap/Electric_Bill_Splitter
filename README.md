@@ -2,7 +2,7 @@
 
 **The fair way to split electricity bills across multiple users sharing a single meter.**
 
-![BillSplit Preview](https://raw.githubusercontent.com/username/repository/main/preview-placeholder.png)
+![BillSplit Preview](preview.png)
 
 ## 📖 Introduction
 
@@ -27,10 +27,13 @@ In many shared housing situations, multiple tenants share a single electricity m
 ## 🚀 Getting Started
 
 ### Web Application
+
 Simply open `index.html` in any modern web browser. No installation or server required.
 
 ### Java Logic (CLI)
+
 To run the Java version of the splitter:
+
 1. Ensure you have JDK 11+ installed.
 2. Compile the file:
    ```bash

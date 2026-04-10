@@ -1,0 +1,17 @@
+# Java class files
+*.class
+
+# Mobile/Desktop OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# We do NOT ignore preview.png because we want it to show on GitHub
+# preview.png
