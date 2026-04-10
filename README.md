@@ -4,7 +4,7 @@
 
 
 [🚀 **Live Demo**](https://lalitmohan-mekap.github.io/Electric_Bill_Splitter)
-![BillSplit Preview](preview.png)
+[![BillSplit Preview](preview.png)](https://lalitmohan-mekap.github.io/Electric_Bill_Splitter)
 
 ## 📖 Introduction
 
